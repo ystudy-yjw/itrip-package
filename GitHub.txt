@@ -13,14 +13,15 @@ VCS(Version Control System)
 Git
 一个开源的分布式版本发布系统
 
-代码托管和协作开发平台
-1.GitHub
-https://github.com/
-世界上最流行的开源协作平台。
-2.码云Gitee
-开源中国（www.oschinan.net）社区团队推出
-https://gitee.com/
+	代码托管和协作开发平台
+	1.GitHub
+		https://github.com/
+		世界上最流行的开源协作平台。
+	2.码云Gitee
+		开源中国（www.oschinan.net）社区团队推出
+		https://gitee.com/
 
-GitHub和码云Gitee等使用Git作为版本控制工具
+	GitHub和码云Gitee等使用Git作为版本控制工具
 
-Git
+	GitHubfffff
+
