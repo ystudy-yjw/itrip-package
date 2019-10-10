@@ -1,0 +1,26 @@
+版本控制
+记录文件所有的历史变化
+查看修改情况的责任人
+错误恢复
+共享数据，协作开发
+
+版本控制系统
+VCS(Version Control System)
+1.本地版本控制系统（LVCS,Local VCS）
+2.集中式版本控制系统（CVCS,Centralized VCS）
+3.分布式版本控制系统（DVCS,Distributed VCS）
+
+Git
+一个开源的分布式版本发布系统
+
+代码托管和协作开发平台
+1.GitHub
+https://github.com/
+世界上最流行的开源协作平台。
+2.码云Gitee
+开源中国（www.oschinan.net）社区团队推出
+https://gitee.com/
+
+GitHub和码云Gitee等使用Git作为版本控制工具
+
+Git
